@@ -4,6 +4,7 @@ export type Level = {
   icon: "down" | "up";
   imc: number[];
   yourImc?: number;
+  disabled?: boolean;
 };
 
 export const levels: Level[] = [
