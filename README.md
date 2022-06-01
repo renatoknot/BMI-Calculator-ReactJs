@@ -46,13 +46,7 @@
 
 ## :dart: About
 
-Describe your project
-
-## :sparkles: Features
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Project made to deepen my knowledge in both React.js and Typescript
 
 ## :rocket: Technologies
 
@@ -72,10 +66,10 @@ Also it's nice to have an editor to work with the code like [VSCode](https://cod
 
 ```bash
 # Clone this project
-$ git clone https://github.com/renatoknot/calculadora
+$ git clone https://github.com/renatoknot/BMI-Calculator-ReactJs.git
 
 # Access
-$ cd calculadora
+$ cd BMI-Calculator-ReactJs
 
 # Install dependencies
 $ yarn
@@ -90,7 +84,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/renatoknot" target="_blank">Renato</a>
 
 &#xa0;
 
