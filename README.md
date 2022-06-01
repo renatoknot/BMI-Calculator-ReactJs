@@ -75,7 +75,7 @@ $ cd BMI-Calculator-ReactJs
 $ yarn
 
 # Run the project
-$ yarn start
+$ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
